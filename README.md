@@ -12,7 +12,7 @@ Bu proje, Discord.js v14 kullanılarak oluşturulmuş basit bir botu sese ekleme
 
 ## Kullanım
 
-/sese-ekle komutu ile bulunduğunuz kanal botunuzu çeker
+/sese-ekle komutu ile bulunduğunuz kanala botunuzu çeker
 
 ## Destek
 
